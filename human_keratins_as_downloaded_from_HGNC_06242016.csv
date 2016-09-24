@@ -1,0 +1,56 @@
+HGNC ID,Approved,Symbol,Approved,Name   Status,Previous,Symbols        Synonyms        Chromosome      Accession Numbers       RefSeq,IDs,Gene F,ami,ly Tag Gene family description Gene family ID
+6413,KRT10,keratin,10,Approved,KPP,"K10, CK10       17q21.2 J04029  NM_000421               Keratins, type I",608,,,
+6414,KRT12,keratin,12,Approved,,"K12     17q21.2         NM_000223               Keratins, type I        608",,,,
+6415,KRT13,keratin,13,Approved,,"K13, CK13, MGC3781, MGC161462   17q21.2         NM_153490               Kerati","ns, type",I,6,8
+6416,KRT14,keratin,14,Approved,"EBS3, EB","S4              17q21.2 BC002690        NM_000526               Keratins, type",I,608,,
+6421,KRT15,keratin,15,Approved,,"K15, CK15, K1CO 17q21.2         NM_002275               Keratins, type I",608,,,
+6423,KRT16,keratin,16,Approved,,"NEPPK   17q21.2 S79867  NM_005557               Keratins, type I        608",,,,
+6427,KRT17,keratin,17,Approved,PCHC1,"17q21.2 X62571  NM_000422               Keratins, type I        608",,,,
+6430,KRT18,keratin,18,Approved,,"12q13           NM_199187               Keratins, type I        608",,,,
+6436,KRT19,keratin,19,Approved,,"K19, CK19, K1CS, MGC15366       17q21.2         NM_002276               Kerati","ns, type",I,6,8
+20412,KRT20,keratin,20,Approved,,"CK20, K20, MGC35423     17q21.2 BC031559                        Keratins, type",I,608,,
+6438,KRT23,keratin,23,Approved,,"K23, DKFZP434G032, HAIK1, CK23, MGC26158        17q21.2 AF102848",,Kerati,"ns,",type I        608
+18527,KRT24,keratin,24,Approved,,"FLJ20261, MGC138169, MGC138173  17q21.2         NM_019016               Kerati","ns, type",I,6,8
+30839,KRT25,keratin,25,Approved,KRT25A,"17q21.2 AK129503        NM_181534               Keratins, type I",608,,,
+30840,KRT26,keratin,26,Approved,KRT25B,"17q21.2 AJ564205        NM_181539               Keratins, type I",608,,,
+30841,KRT27,keratin,27,Approved,KRT25C,"17q21.2 AJ564206        NM_181537               Keratins, type I",608,,,
+30842,KRT28,keratin,28,Approved,KRT25D,"17q21.2 AK129827        NM_181535               Keratins, type I",608,,,
+6448,KRT31,keratin,31,Approved,KRTHA1,"Ha-1    17q21.2 X86570  NM_002277               Keratins, type I        608",,,,
+6449,KRT32,keratin,32,Approved,KRTHA2,"Ha-2    17q21.2 X90761  NM_002278               Keratins, type I        608",,,,
+6450,KRT33A,keratin,33A,Approved,KRTHA3A,"Ha-3I, Krt1-3   17q21.2 Y16788  NM_004138               Keratins, type I",608,,,
+6451,KRT33B,keratin,33B,Approved,KRTHA3B,"Ha-3II  17q21.2 X82634  NM_002279               Keratins, type I        608",,,,
+6452,KRT34,keratin,34,Approved,KRTHA4,"Ha-4    17q21.2 Y16790  NM_021013               Keratins, type I        608",,,,
+6453,KRT35,keratin,35,Approved,KRTHA5,"Ha-5    17q21.2 X90762  NM_002280               Keratins, type I        608",,,,
+6454,KRT36,keratin,36,Approved,KRTHA6,"17q21.2 Y16792  NM_003771               Keratins, type I        608",,,,
+6455,KRT37,keratin,37,Approved,KRTHA7,"17q21.2 Y16793  NM_003770               Keratins, type I        608",,,,
+6456,KRT38,keratin,38,Approved,KRTHA8,"17q21.2 Y16794  NM_006771               Keratins, type I        608",,,,
+32971,KRT39,keratin,39,Approved,,"KA35    17q21.2 AJ786657        NM_213656               Keratins, type I",608,,,
+26707,KRT40,keratin,40,Approved,,"FLJ36600, KA36  17q21.2 AK093919        NM_182497               Keratins, type",I,608,,
+6447,KRT9,keratin,9,Approved,,"EPPK, K9, CK-9  17q21.2         NM_000226               Keratins, type I",608,,,
+6412,KRT1,keratin,1,Approved,EHK1,"KRT1A   12q13.13        X69725  NM_006121               Keratins, type II",609,,,
+6439,KRT2,keratin,2,Approved,KRT2A,"KRTE    12q13.13                NM_000423               Keratins, type II",609,,,
+28695,KRT222,keratin,222,Approved,KRT222P,"KA21, MGC45562  17q21.2 AK092967        NM_152349               Keratins, type",II,609,,
+6440,KRT3,keratin,3,Approved,,"CK3, K3 12q13.13                NM_057088               Keratins, type II",609,,,
+6441,KRT4,keratin,4,Approved,CYK4,"CK4, K4 12q13.13                NM_002272               Keratins, type II",609,,,
+6442,KRT5,keratin,5,Approved,EBS2,"KRT5A   12q13.13                                Keratins, type II       609",,,,
+6443,KRT6A,keratin,6A,Approved,"KRT6C, K","RT6D    CK6C, K6C, CK6D, K6D    12q13.13        BC014152, L42593, L42610",NM_005,554,,"Keratins, type II       609"
+6444,KRT6B,keratin,6B,Approved,KRTL1,"12q13.13        BC034535        NM_005555               Keratins, type",II,609,,
+20406,KRT6C,keratin,6C,Approved,KRT6E,"12q13.13        L42611  NM_173086               Keratins, type II",609,,,
+6445,KRT7,keratin,7,Approved,,"K7, CK7, K2C7, SCL      12q13.13                NM_005556               Kerati","ns, type",II,6,9
+28927,KRT71,keratin,71,Approved,,"KRT6IRS, KRT6IRS1, K6IRS1       12q13.13        AJ308600        NM_033448",,Kerati,"ns,",type II       609
+28932,KRT72,keratin,72,Approved,,"K6IRS2, KRT6IRS2, KRT6, K6irs   12q13.13        AY033495        NM_080747",,Kerati,"ns,",type II       609
+28928,KRT73,keratin,73,Approved,,"KRT6IRS3, K6IRS3        12q13.13        AJ508776        NM_175068",Kerati,"ns, type",II,609
+28929,KRT74,keratin,74,Approved,,"K6IRS4, KRT5C, KRT6IRS4 12q13.13        BK000977        NM_175053",Kerati,"ns, type",II,609
+24431,KRT75,keratin,75,Approved,,"K6HF    12q13.13        Y19212  NM_004693               Keratins, type II",609,,,
+24430,KRT76,keratin,76,Approved,,"HUMCYT2A, KRT2B, KRT2P  12q13.13        M99063  NM_015848               Kerati","ns, type",II,6,9
+20411,KRT77,keratin,77,Approved,KRT1B,"12q13.13        BK000975        NM_175078               Keratins, type",II,609,,
+28926,KRT78,keratin,78,Approved,,"K5B     12q13.13        AK096419        NM_173352               Keratins, type",II,609,,
+28930,KRT79,keratin,79,Approved,,"K6L, KRT6L      12q13.13        AJ564105        NM_175834               Kerati","ns, type",II,6,9
+6446,KRT8,keratin,8,Approved,,"CARD2, K8, CK8, CYK8, K2C8, KO  12q13.13        BC000654        NM_002273",,Kerati,"ns,",type II       609
+27056,KRT80,keratin,80,Approved,,"KB20    12q13.13        BX537567        NM_182507               Keratins, type",II,609,,
+6458,KRT81,keratin,81,Approved,KRTHB1,"Hb-1    12q13   X81420  NM_002281               Keratins, type II       609",,,,
+6459,KRT82,keratin,82,Approved,KRTHB2,"Hb-2    12q13   Y19207  NM_033033               Keratins, type II       609",,,,
+6460,KRT83,keratin,83,Approved,KRTHB3,"Hb-3    12q13.13        X99141  NM_002282               Keratins, type II",609,,,
+6461,KRT84,keratin,84,Approved,KRTHB4,"Hb-4    12q13   Y19209  NM_033045               Keratins, type II       609",,,,
+6462,KRT85,keratin,85,Approved,KRTHB5,"Hb-5    12q13.13        X99140  NM_002283               Keratins, type II",609,,,
+6463,KRT86,keratin,86,Approved,KRTHB6,"MNX, Hb6        12q13   X99142  NM_002284               Keratins, type II",609,,,
